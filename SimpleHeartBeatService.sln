@@ -4,6 +4,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleHeartBeatService", "SimpleHeartBeatService\SimpleHeartBeatService.csproj", "{9BCBF9A8-916B-4E75-8A99-0AF36DAE3CBE}"
+password="ChetanBora"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
